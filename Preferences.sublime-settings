@@ -25,11 +25,6 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"AdvancedNewFile",
-		"All Autocomplete",
-		"Latest Migration",
-		"SCSS",
-		"SublimeLinter-rubocop",
 		"Vintage"
 	],
 	"remember_open_files": false,
